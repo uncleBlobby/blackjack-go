@@ -139,4 +139,5 @@ func main(){
     fmt.Printf("Dealer hand: %v, Dealer score: %v\n", dealer.hand, dealer.score)
     fmt.Printf("%v cards remain in deck.\n", len(deck.cards))
 
+
 }
